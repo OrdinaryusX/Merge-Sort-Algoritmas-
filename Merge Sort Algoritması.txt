@@ -1,0 +1,19 @@
+[16,21,11,8,12,22] -> Merge Sort
+
+//Divide işlemi ile dizi en küçük par.aya
+Adım 1: [16,21,11]   [8,12,22]
+
+Adım 2: [16,21] [11]  [8,12] [22]
+
+Adım 3: [16] [21] [11] [8] [12] [22]
+
+//Birleştirme işlemi ile dizi birleştirilir.
+
+Adım 4: [16,21] [11]  [8,12] [22]
+
+Adım 5: [11,16,21]  [8,12,22]
+
+Adım 6: [8,11,12,16,21,21]
+
+
+Algoritma Karmaşıklığı: O(nlogn)'dir.
