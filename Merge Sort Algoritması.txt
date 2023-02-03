@@ -16,4 +16,4 @@ Adım 5: [11,16,21]  [8,12,22]
 Adım 6: [8,11,12,16,21,21]
 
 
-Algoritma Karmaşıklığı: O(nlogn)'dir.
+Algoritma Karmaşıklığı =  O(nlogn)'dir.
